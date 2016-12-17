@@ -1,0 +1,1 @@
+qucs\qucsator.exe -i tmp\%1 -o tmp\%2
