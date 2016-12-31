@@ -1,4 +1,4 @@
-#!C:\Users\Wojtek\AppData\Local\Programs\Python\Python35-32\python
+#!C:\Program Files\Anaconda3\python
 # -*- coding: utf-8 -*-
 import cgi, os
 
